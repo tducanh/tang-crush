@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Châu Anh à!',
     introDesc: ` Trời sinh voi trời sinh cỏ
-     Anh là cà rốt em là con thỏ,
+     Anh là cà rốt em là con thỏ`,
     btnIntro: 'hihi',
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
@@ -14,3 +14,4 @@ const CONFIG = {
     messDesc: 'Hôm nào gặp cho anh ôm hôn em iu nhó.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com'/ducanhyeuchauanh/'
+}
